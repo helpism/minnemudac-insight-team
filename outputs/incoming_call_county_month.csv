@@ -1,0 +1,1909 @@
+year_month,county_for_analysis,contacts
+2022-02,Scott,1
+2022-04,Itasca,1
+2022-04,Ramsey,1
+2022-07,Ramsey,1
+2022-08,Ramsey,1
+2022-09,Hennepin,1
+2022-10,Chisago,1
+2022-10,Ramsey,1
+2022-11,Ramsey,1
+2022-12,Ramsey-Saint Paul,1
+2023-01,Anoka,32
+2023-01,Becker,2
+2023-01,Beltrami,9
+2023-01,Benton,5
+2023-01,Carlton,1
+2023-01,Carver,4
+2023-01,Cass,5
+2023-01,Chippewa,1
+2023-01,Clay,3
+2023-01,Crow Wing,3
+2023-01,Dakota,42
+2023-01,Faribault,1
+2023-01,Fillmore,1
+2023-01,Freeborn,1
+2023-01,Goodhue,2
+2023-01,Grant,1
+2023-01,Hennepin,117
+2023-01,Hennepin-Minneapolis,48
+2023-01,Houston,2
+2023-01,Isanti,2
+2023-01,Itasca,3
+2023-01,Jackson,2
+2023-01,Kanabec,2
+2023-01,Kandiyohi,1
+2023-01,Le Sueur,2
+2023-01,Mcleod,1
+2023-01,Mille Lacs,3
+2023-01,Mower,1
+2023-01,Nicollet,1
+2023-01,Olmsted,8
+2023-01,Otter Tail,2
+2023-01,Pine,4
+2023-01,Polk,1
+2023-01,Ramsey,178
+2023-01,Ramsey-Saint Paul,29
+2023-01,Rice,3
+2023-01,Rock,1
+2023-01,Scott,4
+2023-01,Sherburne,5
+2023-01,Sibley,1
+2023-01,St. Louis,12
+2023-01,Stearns,15
+2023-01,Steele,1
+2023-01,Wadena,1
+2023-01,Washington,20
+2023-01,Watonwan,1
+2023-01,Winona,1
+2023-01,Wright,7
+2023-02,Aitkin,2
+2023-02,Anoka,29
+2023-02,Becker,1
+2023-02,Benton,1
+2023-02,Blue Earth,2
+2023-02,Carlton,2
+2023-02,Carver,2
+2023-02,Cass,2
+2023-02,Chisago,3
+2023-02,Clay,1
+2023-02,Cottonwood,2
+2023-02,Crow Wing,3
+2023-02,Dakota,34
+2023-02,Douglas,1
+2023-02,Faribault,1
+2023-02,Freeborn,2
+2023-02,Goodhue,2
+2023-02,Hennepin,121
+2023-02,Hennepin-Minneapolis,38
+2023-02,Houston,3
+2023-02,Isanti,1
+2023-02,Itasca,2
+2023-02,Kandiyohi,2
+2023-02,Koochiching,1
+2023-02,Lake,1
+2023-02,Le Sueur,3
+2023-02,Lyon,1
+2023-02,Martin,1
+2023-02,McLeod,1
+2023-02,Mille Lacs,3
+2023-02,Morrison,1
+2023-02,Mower,1
+2023-02,Nicollet,2
+2023-02,Nobles,3
+2023-02,Olmsted,5
+2023-02,Pennington,1
+2023-02,Pine,1
+2023-02,Polk,2
+2023-02,Ramsey,187
+2023-02,Ramsey-Saint Paul,23
+2023-02,Red Lake,1
+2023-02,Renville,1
+2023-02,Rice,3
+2023-02,Rock,2
+2023-02,Scott,2
+2023-02,Sherburne,1
+2023-02,St. Louis,19
+2023-02,Stearns,13
+2023-02,Steele,1
+2023-02,Stevens,1
+2023-02,Todd,2
+2023-02,Washington,11
+2023-02,Winona,2
+2023-02,Wright,6
+2023-03,Anoka,24
+2023-03,Becker,4
+2023-03,Beltrami,1
+2023-03,Benton,3
+2023-03,Blue Earth,1
+2023-03,Carlton,1
+2023-03,Carver,2
+2023-03,Chisago,1
+2023-03,Clay,1
+2023-03,Crow Wing,2
+2023-03,Dakota,36
+2023-03,Douglas,1
+2023-03,Freeborn,3
+2023-03,Goodhue,4
+2023-03,Hennepin,130
+2023-03,Hennepin county,1
+2023-03,Hennepin-Minneapolis,41
+2023-03,Hubbard,1
+2023-03,Itasca,5
+2023-03,Kandiyohi,3
+2023-03,Koochiching,1
+2023-03,Lake Of The Woods,1
+2023-03,Le Sueur,1
+2023-03,Lyon,1
+2023-03,McLeod,1
+2023-03,Mcleod,2
+2023-03,Mille Lacs,3
+2023-03,Morrison,1
+2023-03,Mower,2
+2023-03,Murray,3
+2023-03,Nicollet,2
+2023-03,Nobles,1
+2023-03,Olmsted,8
+2023-03,Pennington,1
+2023-03,Ramsey,183
+2023-03,Ramsey-Saint Paul,19
+2023-03,Rice,1
+2023-03,Roseau,1
+2023-03,Scott,6
+2023-03,Sherburne,1
+2023-03,St. Louis,12
+2023-03,Stearns,8
+2023-03,Steele,1
+2023-03,Todd,1
+2023-03,Wabasha,1
+2023-03,Wadena,1
+2023-03,Washington,17
+2023-03,Winona,1
+2023-03,Wright,3
+2023-03,hennHennepin,1
+2023-04,Anoka,17
+2023-04,Becker,3
+2023-04,Beltrami,1
+2023-04,Brown,1
+2023-04,Carlton,1
+2023-04,Cass,2
+2023-04,Chippewa,2
+2023-04,Chisago,3
+2023-04,Clay,2
+2023-04,Clearwater,1
+2023-04,Cottonwood,3
+2023-04,Crow Wing,4
+2023-04,Dakota,45
+2023-04,Dodge,1
+2023-04,Douglas,1
+2023-04,Goodhue,2
+2023-04,Hennepin,171
+2023-04,Hennepin-Minneapolis,11
+2023-04,Itasca,1
+2023-04,Kanabec,1
+2023-04,Kandiyohi,2
+2023-04,Lac Qui Parle,2
+2023-04,Lake,1
+2023-04,Le Sueur,1
+2023-04,Marshall,1
+2023-04,Mcleod,1
+2023-04,Mille Lacs,2
+2023-04,Morrison,2
+2023-04,Nicollet,2
+2023-04,Norman,1
+2023-04,Olmsted,7
+2023-04,Pine,1
+2023-04,Ramsey,202
+2023-04,Ramsey-Saint Paul,9
+2023-04,Red Lake,1
+2023-04,Redwood,1
+2023-04,Renville,1
+2023-04,Rice,3
+2023-04,Rock,2
+2023-04,Scott,1
+2023-04,Sherburne,5
+2023-04,St. Louis,12
+2023-04,Stearns,12
+2023-04,Steele,2
+2023-04,Todd,1
+2023-04,Wadena,1
+2023-04,Waseca,1
+2023-04,Washington,14
+2023-04,Watonwan,1
+2023-04,Winona,2
+2023-04,Wright,7
+2023-05,Anoka,27
+2023-05,Becker,3
+2023-05,Beltrami,2
+2023-05,Benton,1
+2023-05,Blue Earth,2
+2023-05,Brown,1
+2023-05,Carlton,1
+2023-05,Carver,5
+2023-05,Cass,1
+2023-05,Chisago,2
+2023-05,Clay,2
+2023-05,Clearwater,1
+2023-05,Cottonwood,1
+2023-05,Crow Wing,4
+2023-05,Dakota,45
+2023-05,Dodge,1
+2023-05,Faribault,1
+2023-05,Goodhue,4
+2023-05,Hennepin,208
+2023-05,Houston,2
+2023-05,Itasca,2
+2023-05,Kandiyohi,2
+2023-05,Kittson,1
+2023-05,Koochiching,2
+2023-05,McLeod,1
+2023-05,Mille Lacs,1
+2023-05,Nicollet,1
+2023-05,Olmsted,4
+2023-05,Otter Tail,3
+2023-05,Pine,2
+2023-05,Pipestone,1
+2023-05,Polk,2
+2023-05,Pope,1
+2023-05,Ramsey,229
+2023-05,Renville,1
+2023-05,Rice,4
+2023-05,Rock,2
+2023-05,Scott,12
+2023-05,Sherburne,7
+2023-05,St. Louis,19
+2023-05,Stearns,13
+2023-05,Steele,2
+2023-05,Todd,3
+2023-05,Wabasha,1
+2023-05,Wadena,1
+2023-05,Washington,14
+2023-05,Watonwan,1
+2023-05,Winona,4
+2023-05,Wright,2
+2023-06,Aitkin,1
+2023-06,Anoka,17
+2023-06,Becker,2
+2023-06,Beltrami,3
+2023-06,Benton,3
+2023-06,Big Stone,1
+2023-06,Blue Earth,1
+2023-06,Carlton,7
+2023-06,Carver,7
+2023-06,Cass,1
+2023-06,Chisago,1
+2023-06,Cottonwood,1
+2023-06,Crow Wing,4
+2023-06,Dakota,28
+2023-06,Douglas,2
+2023-06,Freeborn,1
+2023-06,Goodhue,1
+2023-06,Hennepin,172
+2023-06,Isanti,2
+2023-06,Itasca,6
+2023-06,Kandiyohi,2
+2023-06,Kittson,1
+2023-06,Koochiching,1
+2023-06,Lac Qui Parle,1
+2023-06,Lake Of The Woods,1
+2023-06,Le Sueur,1
+2023-06,Lyon,2
+2023-06,Martin,1
+2023-06,Mower,2
+2023-06,Olmsted,12
+2023-06,Otter Tail,2
+2023-06,Pennington,1
+2023-06,Pine,3
+2023-06,Polk,1
+2023-06,Ramsey,231
+2023-06,Rice,1
+2023-06,Scott,4
+2023-06,Sherburne,2
+2023-06,Sibley,1
+2023-06,St. Louis,10
+2023-06,Stearns,9
+2023-06,Steele,3
+2023-06,Todd,2
+2023-06,Waseca,2
+2023-06,Washington,18
+2023-06,Wilkin,3
+2023-06,Winona,1
+2023-06,Wright,7
+2023-06,Yellow Medicine,1
+2023-07,Anoka,37
+2023-07,Beltrami,6
+2023-07,Benton,1
+2023-07,Blue Earth,2
+2023-07,Brown,2
+2023-07,Carlton,3
+2023-07,Carver,2
+2023-07,Cass,3
+2023-07,Chippewa,3
+2023-07,Chisago,2
+2023-07,Clay,2
+2023-07,Crow Wing,2
+2023-07,Dakota,71
+2023-07,Dodge,3
+2023-07,Douglas,2
+2023-07,Freeborn,2
+2023-07,Goodhue,2
+2023-07,Grant,1
+2023-07,Hennepin,218
+2023-07,Itasca,3
+2023-07,Lake,1
+2023-07,Le Sueur,2
+2023-07,Lincoln,1
+2023-07,Martin,1
+2023-07,Mcleod,2
+2023-07,Mille Lacs,1
+2023-07,Morrison,1
+2023-07,Mower,1
+2023-07,Nobles,1
+2023-07,Norman,1
+2023-07,Olmsted,4
+2023-07,Otter Tail,2
+2023-07,Pine,4
+2023-07,Polk,2
+2023-07,Ramsey,244
+2023-07,Ramsey-Saint Paul,3
+2023-07,Renville,1
+2023-07,Rice,1
+2023-07,Scott,5
+2023-07,Sherburne,9
+2023-07,Sibley,1
+2023-07,St. Louis,14
+2023-07,Stearns,15
+2023-07,Stevens,2
+2023-07,Swift,1
+2023-07,Todd,2
+2023-07,Wabasha,1
+2023-07,Washington,29
+2023-07,Wilkin,1
+2023-07,Wright,5
+2023-07,Yellow Medicine,2
+2023-08,Anoka,50
+2023-08,Becker,1
+2023-08,Beltrami,2
+2023-08,Benton,1
+2023-08,Blue Earth,1
+2023-08,Brown,1
+2023-08,Carlton,1
+2023-08,Carver,3
+2023-08,Cass,5
+2023-08,Chisago,1
+2023-08,Clay,2
+2023-08,Cook,1
+2023-08,Cottonwood,1
+2023-08,Crow Wing,2
+2023-08,Dakota,69
+2023-08,Douglas,3
+2023-08,Faribault,3
+2023-08,Fillmore,1
+2023-08,Goodhue,3
+2023-08,Hennepin,286
+2023-08,Hennepin-Minneapolis,1
+2023-08,Houston,1
+2023-08,Hubbard,1
+2023-08,Jackson,1
+2023-08,Kandiyohi,2
+2023-08,Koochiching,1
+2023-08,Lac Qui Parle,1
+2023-08,Lake,1
+2023-08,Le Sueur,1
+2023-08,Lincoln,1
+2023-08,Lyon,1
+2023-08,Mahnomen,2
+2023-08,Mcleod,1
+2023-08,Meeker,1
+2023-08,Mille Lacs,4
+2023-08,Morrison,4
+2023-08,Nobles,1
+2023-08,Olmsted,7
+2023-08,Otter Tail,3
+2023-08,Pine,1
+2023-08,Pipestone,1
+2023-08,Polk,3
+2023-08,Pope,1
+2023-08,Ramsey,288
+2023-08,Renville,2
+2023-08,Rice,1
+2023-08,Roseau,1
+2023-08,Scott,11
+2023-08,Sherburne,1
+2023-08,St. Louis,12
+2023-08,Stearns,12
+2023-08,Steele,3
+2023-08,Todd,3
+2023-08,Wabasha,2
+2023-08,Waseca,2
+2023-08,Washington,16
+2023-08,Watonwan,1
+2023-08,Wilkin,1
+2023-08,Winona,2
+2023-08,Wright,10
+2023-09,Aitkin,1
+2023-09,Anoka,48
+2023-09,Becker,2
+2023-09,Beltrami,5
+2023-09,Benton,1
+2023-09,Blue Earth,2
+2023-09,Brown,1
+2023-09,Carlton,3
+2023-09,Carver,4
+2023-09,Cass,8
+2023-09,Chisago,7
+2023-09,Clay,1
+2023-09,Crow Wing,4
+2023-09,Dakota,61
+2023-09,Dodge,1
+2023-09,Fillmore,2
+2023-09,Freeborn,3
+2023-09,Goodhue,3
+2023-09,Hennepin,303
+2023-09,Hubbard,3
+2023-09,Isanti,2
+2023-09,Itasca,5
+2023-09,Kandiyohi,3
+2023-09,Koochiching,1
+2023-09,Lac Qui Parle,1
+2023-09,Lyon,2
+2023-09,Mcleod,1
+2023-09,Meeker,1
+2023-09,Mille Lacs,1
+2023-09,Morrison,4
+2023-09,Mower,2
+2023-09,Murray,1
+2023-09,Nicollet,1
+2023-09,Nobles,3
+2023-09,Norman,1
+2023-09,Olmsted,11
+2023-09,Otter Tail,4
+2023-09,Pine,1
+2023-09,Polk,1
+2023-09,Ramsey,329
+2023-09,Rice,3
+2023-09,Rock,1
+2023-09,Roseau,2
+2023-09,Scott,11
+2023-09,Sherburne,1
+2023-09,St. Louis,16
+2023-09,Stearns,12
+2023-09,Steele,4
+2023-09,Swift,1
+2023-09,Wabasha,1
+2023-09,Waseca,1
+2023-09,Washington,24
+2023-09,Watonwan,2
+2023-09,Winona,2
+2023-09,Wright,6
+2023-10,Anoka,50
+2023-10,Beltrami,2
+2023-10,Benton,1
+2023-10,Blue Earth,2
+2023-10,Brown,1
+2023-10,Carlton,1
+2023-10,Carver,5
+2023-10,Cass,7
+2023-10,Chippewa,1
+2023-10,Chisago,3
+2023-10,Clay,2
+2023-10,Crow Wing,5
+2023-10,Dakota,49
+2023-10,Dodge,3
+2023-10,Douglas,5
+2023-10,FilmoreFillmore,1
+2023-10,Freeborn,2
+2023-10,Goodhue,3
+2023-10,Hennepin,254
+2023-10,Hennepin-Minneapolis,1
+2023-10,Houston,1
+2023-10,Isanti,7
+2023-10,Itasca,3
+2023-10,Kanabec,1
+2023-10,Kandiyohi,2
+2023-10,Lac Qui Parle,1
+2023-10,Le Sueur,1
+2023-10,Lincoln,1
+2023-10,Lyon,1
+2023-10,Martin,2
+2023-10,Mcleod,2
+2023-10,Meeker,1
+2023-10,Mille Lacs,1
+2023-10,Mower,2
+2023-10,Nicollet,1
+2023-10,Nobles,1
+2023-10,Norman,2
+2023-10,Olmsted,11
+2023-10,Otter Tail,1
+2023-10,Pipestone,1
+2023-10,Ramsey,327
+2023-10,Ramsey-Saint Paul,1
+2023-10,Renville,1
+2023-10,Rice,2
+2023-10,Rock,1
+2023-10,Scott,7
+2023-10,Sherburne,8
+2023-10,St. Louis,15
+2023-10,Stearns,13
+2023-10,Steele,2
+2023-10,Todd,2
+2023-10,Waseca,1
+2023-10,Washington,21
+2023-10,Watonwan,1
+2023-10,Winona,7
+2023-10,Wright,8
+2023-10,Yellow Medicine,2
+2023-11,Aitkin,1
+2023-11,Anoka,35
+2023-11,Becker,1
+2023-11,Beltrami,2
+2023-11,Benton,4
+2023-11,Blue Earth,4
+2023-11,Carlton,2
+2023-11,Carver,6
+2023-11,Chisago,3
+2023-11,Clay,2
+2023-11,Cottonwood/Brown,1
+2023-11,Crow Wing,6
+2023-11,Dakota,62
+2023-11,Dodge,1
+2023-11,Douglas,3
+2023-11,Faribault,1
+2023-11,Freeborn,1
+2023-11,Grant,1
+2023-11,Hennepin,248
+2023-11,Hennepin-Minneapolis,3
+2023-11,Hubbard,1
+2023-11,Isanti,5
+2023-11,Itasca,1
+2023-11,Kandiyohi,3
+2023-11,Koochiching,1
+2023-11,Lac Qui Parle,1
+2023-11,Le Sueur,4
+2023-11,Lincoln,1
+2023-11,Mahnomen,1
+2023-11,Marshall,1
+2023-11,Mcleod,1
+2023-11,Meeker,1
+2023-11,Mille Lacs,2
+2023-11,Morrison,2
+2023-11,Mower,1
+2023-11,Nicollet,1
+2023-11,Norman,1
+2023-11,Olmsted,8
+2023-11,Otter Tail,3
+2023-11,Pennington,2
+2023-11,Pine,1
+2023-11,Pipestone,1
+2023-11,Polk,1
+2023-11,Ramsey,316
+2023-11,Red Lake,1
+2023-11,Renville,1
+2023-11,Rice,2
+2023-11,Rock,1
+2023-11,Scott,15
+2023-11,Sherburne,5
+2023-11,St. Louis,4
+2023-11,Stearns,12
+2023-11,Steele,2
+2023-11,Stevens,1
+2023-11,Swift,1
+2023-11,Todd,1
+2023-11,Traverse,1
+2023-11,Washington,27
+2023-11,Wright,8
+2023-11,Yellow Medicine,1
+2023-12,Aitkin,1
+2023-12,Anoka,26
+2023-12,Becker,1
+2023-12,Beltrami,1
+2023-12,Blue Earth,1
+2023-12,Brown,1
+2023-12,Carlton,1
+2023-12,Carver,5
+2023-12,Cass,2
+2023-12,Chippewa,1
+2023-12,Chisago,4
+2023-12,Clay,1
+2023-12,Crow Wing,7
+2023-12,Dakota,37
+2023-12,Douglas,1
+2023-12,Faribault,1
+2023-12,Fillmore,1
+2023-12,Freeborn,1
+2023-12,Goodhue,1
+2023-12,Hennepin,163
+2023-12,Isanti,3
+2023-12,Itasca,2
+2023-12,Kanabec,1
+2023-12,Kandiyohi,1
+2023-12,Lac Qui Parle,2
+2023-12,Mille Lacs,1
+2023-12,Morrison,2
+2023-12,Mower,4
+2023-12,Nicollet,2
+2023-12,Nobles,2
+2023-12,Olmsted,2
+2023-12,Pine,1
+2023-12,Ramsey,239
+2023-12,Ramsey-Saint Paul,1
+2023-12,Rice,1
+2023-12,Scott,9
+2023-12,Sherburne,2
+2023-12,Sibley,2
+2023-12,St. Louis,7
+2023-12,Stearns,5
+2023-12,Steele,1
+2023-12,Todd,1
+2023-12,Wabasha,1
+2023-12,Wadena,1
+2023-12,Washington,14
+2023-12,Wilkin,1
+2023-12,Wright,3
+2024-01,Anoka,32
+2024-01,Becker,2
+2024-01,Beltrami,2
+2024-01,Benton,1
+2024-01,Blue Earth,1
+2024-01,Carver,4
+2024-01,Cass,2
+2024-01,Clay,7
+2024-01,Crow Wing,2
+2024-01,Dakota,69
+2024-01,Dodge,1
+2024-01,Freeborn,3
+2024-01,Hennepin,367
+2024-01,Isanti,4
+2024-01,Itasca,3
+2024-01,Jackson,1
+2024-01,Kanabec,2
+2024-01,Kandiyohi,1
+2024-01,Martin,1
+2024-01,Meeker,1
+2024-01,Morrison,1
+2024-01,Mower,3
+2024-01,Olmsted,7
+2024-01,Otter Tail,2
+2024-01,Pennington,1
+2024-01,Pipestone,1
+2024-01,Polk,3
+2024-01,Pope,1
+2024-01,Ramsey,330
+2024-01,Rice,2
+2024-01,Roseau,1
+2024-01,Scott,11
+2024-01,Sherburne,2
+2024-01,Sibley,1
+2024-01,St. Louis,16
+2024-01,Stearns,18
+2024-01,Todd,1
+2024-01,Wadena,1
+2024-01,Waseca,2
+2024-01,Washington,24
+2024-01,Watonwan,1
+2024-01,Winona,2
+2024-01,Wright,7
+2024-02,Aitkin,2
+2024-02,Anoka,26
+2024-02,Blue Earth,4
+2024-02,Brown,1
+2024-02,Carlton,1
+2024-02,Carver,2
+2024-02,Cass,1
+2024-02,Crow Wing,2
+2024-02,Dakota,40
+2024-02,Douglas,2
+2024-02,Freeborn,4
+2024-02,Goodhue,2
+2024-02,Hennepin,156
+2024-02,Isanti,2
+2024-02,Itasca,1
+2024-02,Kandiyohi,4
+2024-02,Le Sueur,3
+2024-02,Mcleod,1
+2024-02,Mower,1
+2024-02,Olmsted,6
+2024-02,Otter Tail,1
+2024-02,Pine,2
+2024-02,Polk,1
+2024-02,Ramsey,172
+2024-02,Ramsey-Saint Paul,1
+2024-02,Rice,3
+2024-02,Roseau,1
+2024-02,Scott,3
+2024-02,Sherburne,4
+2024-02,St. Louis,5
+2024-02,Stearns,9
+2024-02,Steele,2
+2024-02,Stevens,1
+2024-02,Todd,1
+2024-02,Washington,15
+2024-02,Wilkin,1
+2024-02,Winona,2
+2024-02,Wright,5
+2024-02,Yellow Medicine,1
+2024-03,Anoka,25
+2024-03,Beltrami,1
+2024-03,Benton,2
+2024-03,Blue Earth,2
+2024-03,Carlton,2
+2024-03,Carver,6
+2024-03,Cass,4
+2024-03,Chisago,4
+2024-03,Clay,4
+2024-03,Cottonwood,2
+2024-03,Crow Wing,1
+2024-03,Dakota,57
+2024-03,Douglas,2
+2024-03,Faribault,1
+2024-03,Freeborn,2
+2024-03,Goodhue,3
+2024-03,Hennepin,241
+2024-03,Hennepin-Minneapolis,1
+2024-03,Isanti,4
+2024-03,Lyon,1
+2024-03,Mcleod,1
+2024-03,Mille Lacs,1
+2024-03,Morrison,1
+2024-03,Mower,2
+2024-03,Olmsted,6
+2024-03,Otter Tail,1
+2024-03,Pine,1
+2024-03,Ramsey,273
+2024-03,Ramsey-Saint Paul,2
+2024-03,Redwood,1
+2024-03,Renville,1
+2024-03,Rice,1
+2024-03,Scott,14
+2024-03,Sherburne,6
+2024-03,St. Louis,9
+2024-03,Stearns,4
+2024-03,Waseca,1
+2024-03,Washington,30
+2024-03,Winona,2
+2024-03,Wright,9
+2024-04,Anoka,29
+2024-04,Benton,4
+2024-04,Big Stone,1
+2024-04,Blue Earth,3
+2024-04,Carver,6
+2024-04,Cass,4
+2024-04,Chisago,1
+2024-04,Clay,4
+2024-04,Cook,1
+2024-04,Cottonwood,1
+2024-04,Crow Wing,3
+2024-04,Dakota,68
+2024-04,Douglas,2
+2024-04,Goodhue,2
+2024-04,Grant,1
+2024-04,Hennepin,242
+2024-04,Houston,1
+2024-04,Itasca,2
+2024-04,Kandiyohi,1
+2024-04,Koochiching,1
+2024-04,Lake Of The Woods,1
+2024-04,Le Sueur,2
+2024-04,Mcleod,1
+2024-04,Meeker,1
+2024-04,Mille Lacs,1
+2024-04,Mower,2
+2024-04,Murray,1
+2024-04,Nobles,2
+2024-04,Olmsted,11
+2024-04,Otter Tail,1
+2024-04,Pine,1
+2024-04,Polk,2
+2024-04,Ramsey,281
+2024-04,Renville,1
+2024-04,Rice,2
+2024-04,Scott,15
+2024-04,Sherburne,3
+2024-04,St. Louis,7
+2024-04,Stearns,13
+2024-04,Steele,1
+2024-04,Swift,1
+2024-04,Todd,3
+2024-04,Wabasha,1
+2024-04,Waseca,3
+2024-04,Washington,17
+2024-04,Winona,4
+2024-04,Wright,8
+2024-05,Anoka,36
+2024-05,Beltrami,4
+2024-05,Benton,2
+2024-05,Blue Earth,2
+2024-05,Brown,1
+2024-05,Carlton,1
+2024-05,Carver,1
+2024-05,Chisago,3
+2024-05,Clay,2
+2024-05,Crow Wing,2
+2024-05,Dakota,56
+2024-05,Dodge,1
+2024-05,Faribault,3
+2024-05,Fillmore,1
+2024-05,Hennepin,236
+2024-05,Houston,1
+2024-05,Hubbard,1
+2024-05,Isanti,3
+2024-05,Itasca,3
+2024-05,Kanabec,1
+2024-05,Mcleod,2
+2024-05,Meeker,2
+2024-05,Mille Lacs,2
+2024-05,Morrison,2
+2024-05,Mower,1
+2024-05,Murray,1
+2024-05,Nicollet,1
+2024-05,Norman,2
+2024-05,Olmsted,3
+2024-05,Otter Tail,1
+2024-05,Pennington,1
+2024-05,Ramsey,251
+2024-05,Ramsey-Saint Paul,1
+2024-05,Renville,2
+2024-05,Rice,2
+2024-05,Roseau,1
+2024-05,Scott,12
+2024-05,Sherburne,1
+2024-05,Sibley,2
+2024-05,St. Louis,14
+2024-05,Stearns,11
+2024-05,Steele,1
+2024-05,Todd,2
+2024-05,Wabasha,1
+2024-05,Waseca,1
+2024-05,Washington,21
+2024-05,Winona,2
+2024-05,Wright,7
+2024-06,Anoka,40
+2024-06,Blue Earth,3
+2024-06,Carver,3
+2024-06,Chippewa,1
+2024-06,Chisago,6
+2024-06,Clay,3
+2024-06,Clearwater,1
+2024-06,Crow Wing,3
+2024-06,Dakota,58
+2024-06,Douglas,1
+2024-06,Faribault,1
+2024-06,Goodhue,3
+2024-06,Grant,1
+2024-06,Hennepin,240
+2024-06,Hennepin-Minneapolis,1
+2024-06,Isanti,1
+2024-06,Itasca,1
+2024-06,Kandiyohi,1
+2024-06,Lake,1
+2024-06,Le Sueur,1
+2024-06,Martin,1
+2024-06,McLeod,1
+2024-06,Mcleod,3
+2024-06,Meeker,1
+2024-06,Mower,1
+2024-06,Nobles,1
+2024-06,Olmsted,5
+2024-06,Otter Tail,2
+2024-06,Pennington,1
+2024-06,Pipestone,1
+2024-06,Polk,1
+2024-06,Ramsey,252
+2024-06,Ramsey-Saint Paul,1
+2024-06,Redwood,1
+2024-06,Rice,2
+2024-06,Rock,1
+2024-06,Roseau,1
+2024-06,Scott,21
+2024-06,Sherburne,5
+2024-06,Sibley,1
+2024-06,St. Louis,21
+2024-06,Stearns,13
+2024-06,Steele,1
+2024-06,Swift,1
+2024-06,Wabasha,1
+2024-06,Waseca,1
+2024-06,Washington,23
+2024-06,Winona,1
+2024-06,Wright,14
+2024-07,Anoka,39
+2024-07,Beltrami,5
+2024-07,Benton,1
+2024-07,Blue Earth,4
+2024-07,Carlton,1
+2024-07,Carver,2
+2024-07,Cass,2
+2024-07,Chisago,2
+2024-07,Clay,4
+2024-07,Clearwater,1
+2024-07,Crow Wing,3
+2024-07,Dakota,61
+2024-07,Douglas,2
+2024-07,Fillmore,1
+2024-07,Freeborn,1
+2024-07,Goodhue,2
+2024-07,Hennepin,328
+2024-07,Hennepin-Minneapolis,1
+2024-07,Hennipen,12
+2024-07,Hubbard,1
+2024-07,Itasca,3
+2024-07,Lac Qui Parle,2
+2024-07,Le Sueur,4
+2024-07,Mahnomen,1
+2024-07,Meeker,1
+2024-07,Morrison,3
+2024-07,Mower,1
+2024-07,Olmsted,8
+2024-07,Olmsted County,1
+2024-07,Pennington,2
+2024-07,Pine,2
+2024-07,Polk,3
+2024-07,Ramesy,1
+2024-07,Ramsey,304
+2024-07,Ramsey-Saint Paul,9
+2024-07,Red Lake,1
+2024-07,Renville,3
+2024-07,Roseau,1
+2024-07,Scott,6
+2024-07,Sherburne,9
+2024-07,St Louis,1
+2024-07,St. Louis,20
+2024-07,Stearns,24
+2024-07,Steele,7
+2024-07,Sterns,1
+2024-07,Stevens,1
+2024-07,Swift,1
+2024-07,Todd,1
+2024-07,USA,2
+2024-07,Wabasha,1
+2024-07,Waseca,1
+2024-07,Washington,22
+2024-07,Watonwan,1
+2024-07,Wright,6
+2024-08,Aitkin,1
+2024-08,Anoka,23
+2024-08,Becker,1
+2024-08,Beltrami,2
+2024-08,Benton,1
+2024-08,Blue Earth,1
+2024-08,Carlton,5
+2024-08,Carver,7
+2024-08,Cass,1
+2024-08,Chisago,3
+2024-08,Clay,1
+2024-08,Cook,1
+2024-08,Cottonwood,1
+2024-08,Crow Wing,2
+2024-08,Dakota,70
+2024-08,Freeborn,1
+2024-08,Goodhue,1
+2024-08,Grant,2
+2024-08,Hennepin,339
+2024-08,Hennepin-Minneapolis,1
+2024-08,Houston,1
+2024-08,Hubbard,1
+2024-08,Itasca,17
+2024-08,Kandiyohi,1
+2024-08,Koochiching,7
+2024-08,Le Sueur,2
+2024-08,Martin,1
+2024-08,Mcleod,1
+2024-08,Morrison,1
+2024-08,Mower,2
+2024-08,Nobles,4
+2024-08,Olmsted,7
+2024-08,Otter Tail,2
+2024-08,Pine,1
+2024-08,Polk,6
+2024-08,Pope,1
+2024-08,Ramsey,237
+2024-08,Ramsey-Saint Paul,1
+2024-08,Renville,2
+2024-08,Rice,1
+2024-08,Scott,5
+2024-08,Sherburne,4
+2024-08,Sibley,1
+2024-08,St. Louis,52
+2024-08,Stearns,16
+2024-08,Steele,2
+2024-08,Todd,2
+2024-08,Wabasha,1
+2024-08,Washington,22
+2024-08,Winona,2
+2024-08,Wright,11
+2024-08,dakota,1
+2024-09,Aitkin,2
+2024-09,Anoka,41
+2024-09,Beltrami,3
+2024-09,Benton,1
+2024-09,Big Stone,1
+2024-09,Blue Earth,3
+2024-09,Carver,4
+2024-09,Cass,3
+2024-09,Chisago,1
+2024-09,Clay,2
+2024-09,Clearwater,1
+2024-09,Cook,1
+2024-09,Crow Wing,3
+2024-09,Dakota,41
+2024-09,Douglas,3
+2024-09,Faribault,1
+2024-09,Fillmore,2
+2024-09,Freeborn,1
+2024-09,Goodhue,3
+2024-09,Hennepin,271
+2024-09,Isanti,1
+2024-09,Itasca,11
+2024-09,Kandiyohi,4
+2024-09,Koochiching,7
+2024-09,Lake Of The Woods,1
+2024-09,Martin,1
+2024-09,Morrison,1
+2024-09,Mower,2
+2024-09,Nicollet,1
+2024-09,Nobles,2
+2024-09,Olmsted,8
+2024-09,Otter Tail,4
+2024-09,Pennington,1
+2024-09,Ramsey,306
+2024-09,Redwood,1
+2024-09,Roseau,1
+2024-09,Scott,7
+2024-09,Sherburne,6
+2024-09,St. Louis,47
+2024-09,Stearns,15
+2024-09,Steele,6
+2024-09,Todd,4
+2024-09,Wadena,1
+2024-09,Washington,12
+2024-09,Winona,1
+2024-09,Wright,9
+2024-09,Yellow Medicine,1
+2024-10,Aitkin,1
+2024-10,Anoka,65
+2024-10,Beltrami,6
+2024-10,Big Stone,1
+2024-10,Carver,3
+2024-10,Cass,3
+2024-10,Chippewa,1
+2024-10,Chisago,3
+2024-10,Clay,6
+2024-10,Crow Wing,6
+2024-10,Dakota,74
+2024-10,Douglas,1
+2024-10,Fillmore,1
+2024-10,Freeborn,1
+2024-10,Goodhue,3
+2024-10,Grant,1
+2024-10,Hennepin,303
+2024-10,Houston,2
+2024-10,Hubbard,1
+2024-10,Isanti,5
+2024-10,Itasca,2
+2024-10,Kanabec,1
+2024-10,Koochiching,1
+2024-10,Le Sueur,1
+2024-10,Martin,2
+2024-10,Meeker,2
+2024-10,Mille Lacs,3
+2024-10,Morrison,2
+2024-10,Mower,2
+2024-10,Nicollet,1
+2024-10,Nobles,1
+2024-10,Olmsted,9
+2024-10,Pine,1
+2024-10,Polk,4
+2024-10,Ramsey,286
+2024-10,Redwood,1
+2024-10,Rice,3
+2024-10,Roseau,1
+2024-10,Scott,18
+2024-10,Sherburne,6
+2024-10,Sibley,1
+2024-10,St. Louis,18
+2024-10,Stearns,10
+2024-10,Steele,3
+2024-10,Todd,1
+2024-10,Traverse,1
+2024-10,Wadena,1
+2024-10,Waseca,1
+2024-10,Washington,21
+2024-10,Wilkin,1
+2024-10,Wright,10
+2024-11,Anoka,41
+2024-11,Benton,3
+2024-11,Blue Earth,4
+2024-11,Carver,4
+2024-11,Cass,4
+2024-11,Chisago,1
+2024-11,Clay,6
+2024-11,Crow Wing,2
+2024-11,Dakota,41
+2024-11,Douglas,1
+2024-11,Faribault,1
+2024-11,Freeborn,1
+2024-11,Goodhue,1
+2024-11,Hennepin,198
+2024-11,Houston,1
+2024-11,Isanti,2
+2024-11,Itasca,5
+2024-11,Koochiching,2
+2024-11,Lake,1
+2024-11,Le Sueur,2
+2024-11,Lincoln,1
+2024-11,Lyon,1
+2024-11,Martin,1
+2024-11,Meeker,1
+2024-11,Mille Lacs,2
+2024-11,Morrison,1
+2024-11,Mower,2
+2024-11,Olmsted,5
+2024-11,Otter Tail,2
+2024-11,Pine,1
+2024-11,Pipestone,1
+2024-11,Ramsey,222
+2024-11,Red Lake,1
+2024-11,Redwood,1
+2024-11,Renville,1
+2024-11,Rice,2
+2024-11,Rock,2
+2024-11,Scott,15
+2024-11,Sherburne,6
+2024-11,St. Louis,16
+2024-11,Stearns,12
+2024-11,Steele,1
+2024-11,Washington,10
+2024-11,Winona,1
+2024-11,Wright,2
+2024-12,Anoka,27
+2024-12,Benton,2
+2024-12,Blue Earth,3
+2024-12,Carlton,1
+2024-12,Carver,3
+2024-12,Cass,2
+2024-12,Chippewa,1
+2024-12,Chisago,3
+2024-12,Clay,5
+2024-12,Crow Wing,2
+2024-12,Dakota,43
+2024-12,Dodge,1
+2024-12,Douglas,3
+2024-12,Faribault,1
+2024-12,Freeborn,1
+2024-12,Goodhue,1
+2024-12,Grant,1
+2024-12,Hennepin,205
+2024-12,Isanti,1
+2024-12,Itasca,6
+2024-12,Kandiyohi,2
+2024-12,Koochiching,3
+2024-12,Le Sueur,1
+2024-12,Martin,1
+2024-12,McLeod,1
+2024-12,Meeker,1
+2024-12,Norman,1
+2024-12,Olmsted,2
+2024-12,Otter Tail,1
+2024-12,Pennington,1
+2024-12,Pine,2
+2024-12,Pope,1
+2024-12,Ramsey,237
+2024-12,Ramsey-Saint Paul,1
+2024-12,Scott,4
+2024-12,St. Louis,20
+2024-12,Stearns,16
+2024-12,Todd,2
+2024-12,Wabasha,1
+2024-12,Waseca,1
+2024-12,Washington,14
+2024-12,Winona,3
+2024-12,Wright,6
+2025-01,Aitkin,1
+2025-01,Anoka,26
+2025-01,Becker,2
+2025-01,Beltrami,1
+2025-01,Blue Earth,2
+2025-01,Carlton,1
+2025-01,Carver,2
+2025-01,Cass,2
+2025-01,Chisago,2
+2025-01,Clay,6
+2025-01,Crow Wing,5
+2025-01,Dakota,42
+2025-01,Douglas,4
+2025-01,Freeborn,1
+2025-01,Goodhue,1
+2025-01,Hennepin,208
+2025-01,Isanti,2
+2025-01,Jackson,2
+2025-01,Lake,1
+2025-01,Le Sueur,3
+2025-01,Lyon,1
+2025-01,Mcleod,2
+2025-01,Mower,1
+2025-01,Nobles,1
+2025-01,Olmsted,8
+2025-01,Otter Tail,2
+2025-01,Pine,2
+2025-01,Polk,1
+2025-01,Pope,3
+2025-01,Ramsey,320
+2025-01,Redwood,1
+2025-01,Rice,1
+2025-01,Scott,7
+2025-01,Sherburne,7
+2025-01,Sibley,1
+2025-01,St. Louis,23
+2025-01,Stearns,14
+2025-01,Steele,2
+2025-01,Todd,1
+2025-01,Washington,29
+2025-01,Wright,6
+2025-02,Aitkin,1
+2025-02,Anoka,33
+2025-02,Becker,1
+2025-02,Benton,2
+2025-02,Blue Earth,3
+2025-02,Carlton,2
+2025-02,Carver,5
+2025-02,Cass,1
+2025-02,Chisago,2
+2025-02,Clay,1
+2025-02,Dakota,37
+2025-02,Douglas,2
+2025-02,Faribault,1
+2025-02,Freeborn,1
+2025-02,Hennepin,328
+2025-02,Hubbard,1
+2025-02,Itasca,3
+2025-02,Kandiyohi,2
+2025-02,Lyon,1
+2025-02,McLeod,1
+2025-02,Mcleod,3
+2025-02,Nobles,1
+2025-02,Olmsted,4
+2025-02,Otter Tail,2
+2025-02,Pope,1
+2025-02,Ramsey,282
+2025-02,Rice,2
+2025-02,Scott,20
+2025-02,Sherburne,3
+2025-02,St. Louis,18
+2025-02,Stearns,19
+2025-02,Steele,1
+2025-02,Stevens,1
+2025-02,Todd,1
+2025-02,Wadena,1
+2025-02,Washington,13
+2025-02,Wright,6
+2025-03,Anoka,36
+2025-03,Benton,3
+2025-03,Big Stone,1
+2025-03,Blue Earth,2
+2025-03,Carlton,1
+2025-03,Carver,6
+2025-03,Chisago,4
+2025-03,Clay,2
+2025-03,Cook,2
+2025-03,Crow Wing,1
+2025-03,Dakota,54
+2025-03,Dodge,1
+2025-03,Douglas,1
+2025-03,Goodhue,3
+2025-03,Hennepin,409
+2025-03,Hennepin-Minneapolis,1
+2025-03,Isanti,1
+2025-03,Kanabec,1
+2025-03,Kandiyohi,1
+2025-03,Lake,1
+2025-03,Le Sueur,1
+2025-03,Mcleod,1
+2025-03,Morrison,2
+2025-03,Olmsted,5
+2025-03,Otter Tail,1
+2025-03,Pine,2
+2025-03,Ramsey,279
+2025-03,Renville,2
+2025-03,Rice,2
+2025-03,Scott,12
+2025-03,Sherburne,2
+2025-03,St. Louis,9
+2025-03,Stearns,12
+2025-03,Steele,1
+2025-03,Washington,26
+2025-03,Wright,2
+2025-03,h,1
+2025-04,AAnoka,1
+2025-04,Aitkin,1
+2025-04,Anoka,51
+2025-04,Beltrami,1
+2025-04,Benton,1
+2025-04,Big Stone,1
+2025-04,Blue Earth,2
+2025-04,Carver,3
+2025-04,Cass,2
+2025-04,Chisago,5
+2025-04,Clay,1
+2025-04,Dakota,34
+2025-04,Dodge,1
+2025-04,Douglas,1
+2025-04,Faribault,1
+2025-04,Freeborn,2
+2025-04,Goodhue,1
+2025-04,Hennepin,375
+2025-04,Houston,1
+2025-04,Isanti,1
+2025-04,Itasca,1
+2025-04,Koochiching,2
+2025-04,Lyon,1
+2025-04,McLeod,1
+2025-04,Mcleod,3
+2025-04,Olmsted,5
+2025-04,Pine,1
+2025-04,Polk,1
+2025-04,Ramsey,251
+2025-04,Renville,1
+2025-04,Rice,2
+2025-04,Scott,11
+2025-04,Sherburne,2
+2025-04,Sibley,1
+2025-04,St. Louis,11
+2025-04,Stearns,8
+2025-04,Waseca,2
+2025-04,Washington,14
+2025-04,Watonwan,1
+2025-04,Wright,4
+2025-05,Anoka,26
+2025-05,Benton,1
+2025-05,Carlton,1
+2025-05,Carver,3
+2025-05,Clay,3
+2025-05,Crow Wing,1
+2025-05,Dakota,33
+2025-05,Freeborn,1
+2025-05,Hennepin,346
+2025-05,Itasca,3
+2025-05,Lincoln,1
+2025-05,Mcleod,2
+2025-05,Mille Lacs,1
+2025-05,Olmsted,3
+2025-05,Otter Tail,2
+2025-05,Pine,1
+2025-05,Pipestone,1
+2025-05,Pope,2
+2025-05,Ramsey,272
+2025-05,Scott,8
+2025-05,Sherburne,3
+2025-05,Sibley,2
+2025-05,St. Louis,8
+2025-05,Stearns,11
+2025-05,Swift,1
+2025-05,Waseca,1
+2025-05,Washington,25
+2025-05,Wilkin,1
+2025-05,Winona,5
+2025-05,Wright,5
+2025-06,Anoka,23
+2025-06,Beltrami,1
+2025-06,Benton,2
+2025-06,Big Stone,1
+2025-06,Blue Earth,3
+2025-06,Brown,1
+2025-06,Carlton,4
+2025-06,Carver,2
+2025-06,Cass,1
+2025-06,Chippewa,2
+2025-06,Chisago,3
+2025-06,Dakota,46
+2025-06,Douglas,2
+2025-06,Faribault,1
+2025-06,Goodhue,2
+2025-06,Hennepin,341
+2025-06,Houston,1
+2025-06,Itasca,5
+2025-06,Jackson,1
+2025-06,Koochiching,1
+2025-06,Mcleod,1
+2025-06,Mille Lacs,1
+2025-06,Olmsted,1
+2025-06,Pine,1
+2025-06,Ramsey,251
+2025-06,Ramsey-Saint Paul,1
+2025-06,Redwood,1
+2025-06,Renville,2
+2025-06,Rice,5
+2025-06,Scott,8
+2025-06,Sherburne,5
+2025-06,St. Louis,11
+2025-06,Stearns,17
+2025-06,Steele,2
+2025-06,Waseca,1
+2025-06,Washington,16
+2025-06,Winona,1
+2025-06,Wright,8
+2025-07,Anoka,36
+2025-07,Becker,1
+2025-07,Carver,4
+2025-07,Cass,1
+2025-07,Clay,2
+2025-07,Clearwater,1
+2025-07,Cook,1
+2025-07,Dakota,60
+2025-07,Douglas,1
+2025-07,Freeborn,1
+2025-07,Goodhue,2
+2025-07,Hennepin,384
+2025-07,Isanti,1
+2025-07,Itasca,3
+2025-07,Kanabec,1
+2025-07,Le Sueur,2
+2025-07,Mower,4
+2025-07,Nicollet,1
+2025-07,Olmsted,5
+2025-07,Pine,1
+2025-07,Ramsey,286
+2025-07,Rice,1
+2025-07,Scott,8
+2025-07,Sherburne,5
+2025-07,St. Louis,10
+2025-07,Stearns,9
+2025-07,Stevens,1
+2025-07,Washington,17
+2025-07,Winona,2
+2025-07,Wright,4
+2025-08,Anoka,37
+2025-08,Becker,1
+2025-08,Benton,2
+2025-08,Carver,1
+2025-08,Cass,1
+2025-08,Chippewa,2
+2025-08,Chisago,1
+2025-08,Dakota,44
+2025-08,Douglas,1
+2025-08,Fillmore,1
+2025-08,Freeborn,2
+2025-08,Goodhue,1
+2025-08,Hennepin,395
+2025-08,Hubbard,1
+2025-08,Isanti,1
+2025-08,Le Sueur,1
+2025-08,McLeod,1
+2025-08,Meeker,1
+2025-08,Mower,2
+2025-08,Nicollet,1
+2025-08,Olmsted,3
+2025-08,Otter Tail,1
+2025-08,Pine,2
+2025-08,Ramsey,256
+2025-08,Renville,1
+2025-08,Rice,2
+2025-08,Roseau,1
+2025-08,Scott,10
+2025-08,Sherburne,3
+2025-08,St. Louis,12
+2025-08,Stearns,5
+2025-08,Stevens,1
+2025-08,Todd,3
+2025-08,Wabasha,1
+2025-08,Washington,31
+2025-08,Winona,1
+2025-08,Wright,7
+2025-09,Anoka,35
+2025-09,Blue Earth,1
+2025-09,Brown,2
+2025-09,Carlton,3
+2025-09,Carver,6
+2025-09,Clay,1
+2025-09,Crow Wing,2
+2025-09,Dakota,50
+2025-09,Freeborn,1
+2025-09,Hennepin,413
+2025-09,Hubbard,1
+2025-09,Itasca,1
+2025-09,Koochiching,1
+2025-09,Lake,1
+2025-09,Marshall,1
+2025-09,Martin,2
+2025-09,Mcleod,1
+2025-09,Mille Lacs,1
+2025-09,Nicollet,1
+2025-09,Norman,1
+2025-09,Olmsted,3
+2025-09,Otter Tail,1
+2025-09,Pine,4
+2025-09,Ramsey,218
+2025-09,Renville,3
+2025-09,Rice,1
+2025-09,Scott,11
+2025-09,Sherburne,4
+2025-09,St. Louis,9
+2025-09,Stearns,12
+2025-09,Steele,1
+2025-09,Traverse,1
+2025-09,Washington,19
+2025-09,Wright,9
+2025-10,Anoka,33
+2025-10,Becker,1
+2025-10,Beltrami,2
+2025-10,Blue Earth,1
+2025-10,Carlton,5
+2025-10,Carver,5
+2025-10,Chisago,2
+2025-10,Dakota,61
+2025-10,Faribault,2
+2025-10,Freeborn,1
+2025-10,Hennepin,430
+2025-10,Isanti,4
+2025-10,Itasca,1
+2025-10,Le Sueur,1
+2025-10,Lyon,2
+2025-10,Marshall,1
+2025-10,Martin,2
+2025-10,Mcleod,1
+2025-10,Meeker,2
+2025-10,Morrison,1
+2025-10,Nicollet,2
+2025-10,Nobles,1
+2025-10,Olmsted,2
+2025-10,Polk,2
+2025-10,Ramsey,247
+2025-10,Renville,1
+2025-10,Rice,4
+2025-10,Roseau,1
+2025-10,Scott,10
+2025-10,Sherburne,5
+2025-10,St. Louis,15
+2025-10,Stearns,10
+2025-10,Swift,1
+2025-10,Wadena,1
+2025-10,Waseca,1
+2025-10,Washington,19
+2025-10,Winona,1
+2025-10,Wright,10
+2025-11,Anoka,44
+2025-11,Becker,4
+2025-11,Beltrami,5
+2025-11,Benton,1
+2025-11,Big Stone,1
+2025-11,Blue Earth,2
+2025-11,Carlton,2
+2025-11,Carver,8
+2025-11,Cass,1
+2025-11,Chippewa,1
+2025-11,Chisago,1
+2025-11,Clay,1
+2025-11,Clearwater,1
+2025-11,Cook,2
+2025-11,Crow Wing,1
+2025-11,Dakota,36
+2025-11,Hennepin,397
+2025-11,Hennepin-Minneapolis,1
+2025-11,Isanti,1
+2025-11,Itasca,2
+2025-11,Kandiyohi,2
+2025-11,Le Sueur,1
+2025-11,Mahnomen,1
+2025-11,Martin,1
+2025-11,Mcleod,3
+2025-11,Nicollet,1
+2025-11,Pine,1
+2025-11,Ramsey,188
+2025-11,Red Lake,1
+2025-11,Renville,2
+2025-11,Rice,4
+2025-11,Roseau,1
+2025-11,Scott,11
+2025-11,Sherburne,3
+2025-11,St. Louis,9
+2025-11,Stearns,12
+2025-11,Steele,2
+2025-11,Wadena,1
+2025-11,Washington,17
+2025-11,Wright,13
+2025-12,Aitkin,2
+2025-12,Anoka,29
+2025-12,Blue Earth,1
+2025-12,Brown,2
+2025-12,Carlton,4
+2025-12,Carver,3
+2025-12,Cass,2
+2025-12,Chisago,2
+2025-12,Cook,4
+2025-12,Dakota,48
+2025-12,Hennepin,308
+2025-12,Isanti,1
+2025-12,Itasca,1
+2025-12,Lake,2
+2025-12,Le Sueur,2
+2025-12,Lyon,1
+2025-12,Mcleod,1
+2025-12,Mower,1
+2025-12,Pine,1
+2025-12,Pipestone,1
+2025-12,Polk,1
+2025-12,Ramsey,123
+2025-12,Renville,1
+2025-12,Scott,6
+2025-12,Sherburne,1
+2025-12,St. Louis,4
+2025-12,Stearns,2
+2025-12,Traverse,2
+2025-12,Washington,12
+2025-12,Winona,1
+2025-12,Wright,10
+2026-01,Anoka,34
+2026-01,Blue Earth,2
+2026-01,Carlton,1
+2026-01,Carver,3
+2026-01,Chippewa,1
+2026-01,Chisago,1
+2026-01,Cook,2
+2026-01,Crow Wing,1
+2026-01,Dakota,54
+2026-01,Dodge,1
+2026-01,Freeborn,1
+2026-01,Hennepin,422
+2026-01,Houston,1
+2026-01,Isanti,4
+2026-01,Itasca,3
+2026-01,Jackson,1
+2026-01,Kandiyohi,1
+2026-01,Koochiching,1
+2026-01,Lake,1
+2026-01,Lincoln,1
+2026-01,Mcleod,1
+2026-01,Meeker,1
+2026-01,Mille Lacs,1
+2026-01,Morrison,3
+2026-01,Mower,1
+2026-01,Olmsted,5
+2026-01,Pine,2
+2026-01,Ramsey,208
+2026-01,Scott,8
+2026-01,Sherburne,2
+2026-01,St. Louis,5
+2026-01,Stearns,7
+2026-01,Steele,1
+2026-01,Waseca,1
+2026-01,Washington,4
+2026-01,Winona,1
+2026-01,Wright,17
+2026-02,Anoka,34
+2026-02,Becker,1
+2026-02,Beltrami,3
+2026-02,Brown,3
+2026-02,Carlton,1
+2026-02,Carver,3
+2026-02,Cass,1
+2026-02,Chisago,3
+2026-02,Cook,3
+2026-02,Dakota,41
+2026-02,Dakota County,1
+2026-02,Freeborn,1
+2026-02,Grant,1
+2026-02,Hennepin,372
+2026-02,Houston,1
+2026-02,Isanti,2
+2026-02,Kandiyohi,1
+2026-02,Koochiching,1
+2026-02,Lake,4
+2026-02,Le Sueur,1
+2026-02,McLeod,1
+2026-02,Mcleod,2
+2026-02,Olmsted,2
+2026-02,Otter Tail,2
+2026-02,Ramsey,148
+2026-02,Renville,1
+2026-02,Scott,6
+2026-02,Sherburne,3
+2026-02,Sibley,1
+2026-02,St. Louis,2
+2026-02,Stearns,3
+2026-02,Stearns County,1
+2026-02,Wabasha,1
+2026-02,Washington,10
+2026-02,Wright,15
+2026-02,Wright County,1
+2026-02,rasmey,1
+2026-03,Anoka,31
+2026-03,Benton,1
+2026-03,Carlton,4
+2026-03,Carver,7
+2026-03,Cass,1
+2026-03,Cook,1
+2026-03,Dakota,43
+2026-03,Dodge,1
+2026-03,Fillmore,1
+2026-03,Goodhue,1
+2026-03,Hennepin,353
+2026-03,Isanti,3
+2026-03,Itasca,1
+2026-03,Kanabec,2
+2026-03,Le Sueur,1
+2026-03,Mcleod,3
+2026-03,Meeker,2
+2026-03,Morrison,1
+2026-03,Olmsted,1
+2026-03,Pine,2
+2026-03,Ramsey,170
+2026-03,Renville,1
+2026-03,Roseau,1
+2026-03,Scott,4
+2026-03,Sherburne,1
+2026-03,St. Louis,1
+2026-03,Stearns,6
+2026-03,Stevens,1
+2026-03,Washington,11
+2026-03,Wright,44
+2026-03,Yellow Medicine,1
+2026-04,Anoka,39
+2026-04,Blue Earth,2
+2026-04,Carlton,4
+2026-04,Carver,4
+2026-04,Cass,1
+2026-04,Chisago,1
+2026-04,Clay,4
+2026-04,Cook,5
+2026-04,Dakota,52
+2026-04,Dodge,1
+2026-04,Freeborn,2
+2026-04,Hennepin,405
+2026-04,Houston,1
+2026-04,Isanti,1
+2026-04,Jackson,1
+2026-04,Kandiyohi,1
+2026-04,Lake,2
+2026-04,Le Sueur,2
+2026-04,Lincoln,2
+2026-04,Lyon,1
+2026-04,Mcleod,1
+2026-04,Mille Lacs,1
+2026-04,Morrison,1
+2026-04,Mower,2
+2026-04,Murray,1
+2026-04,Olmsted,2
+2026-04,Otter Tail,1
+2026-04,Pine,1
+2026-04,Ramsey,250
+2026-04,Renville,1
+2026-04,Scott,8
+2026-04,Sherburne,8
+2026-04,Sibley,2
+2026-04,St. Louis,3
+2026-04,Stearns,1
+2026-04,Steele,1
+2026-04,Todd,1
+2026-04,Wabasha,1
+2026-04,Washington,15
+2026-04,Winona,1
+2026-04,Wright,20
+2026-05,Anoka,41
+2026-05,Becker,1
+2026-05,Blue Earth,1
+2026-05,Brown,1
+2026-05,Carlton,3
+2026-05,Carver,4
+2026-05,Cass,2
+2026-05,Chisago,3
+2026-05,Clay,1
+2026-05,Cook,4
+2026-05,Crow Wing,1
+2026-05,Dakota,51
+2026-05,Dodge,1
+2026-05,Faribault,1
+2026-05,Fillmore,1
+2026-05,Freeborn,1
+2026-05,Goodhue,2
+2026-05,Grant,1
+2026-05,Hennepin,419
+2026-05,Houston,2
+2026-05,Isanti,2
+2026-05,Itasca,1
+2026-05,Kandiyohi,2
+2026-05,Lake,1
+2026-05,Mcleod,4
+2026-05,Meeker,1
+2026-05,Mille Lacs,1
+2026-05,Morrison,2
+2026-05,Mower,1
+2026-05,Murray,1
+2026-05,Olmsted,3
+2026-05,Otter Tail,2
+2026-05,Ramsey,236
+2026-05,Renville,1
+2026-05,Rice,3
+2026-05,Scott,8
+2026-05,Sherburne,3
+2026-05,St. Louis,5
+2026-05,Stearns,7
+2026-05,Washington,27
+2026-05,Wright,11
+2026-05,Yellow Medicine,1
+2026-05,dakotaDakota,1
+2026-05,hennepin,1
+2026-06,Aitkin,1
+2026-06,Anoka,44
+2026-06,Becker,1
+2026-06,Beltrami,1
+2026-06,Blue Earth,1
+2026-06,Brown,2
+2026-06,Carlton,1
+2026-06,Carver,5
+2026-06,Cass,2
+2026-06,Chippewa,3
+2026-06,Chisago,1
+2026-06,Clay,1
+2026-06,Crow Wing,2
+2026-06,Dakota,52
+2026-06,Dodge,1
+2026-06,Faribault,2
+2026-06,Goodhue,2
+2026-06,Hennepin,470
+2026-06,Houston,1
+2026-06,Isanti,4
+2026-06,Itasca,1
+2026-06,Kandiyohi,1
+2026-06,Lake,2
+2026-06,Le Sueur,2
+2026-06,Lincoln,1
+2026-06,Lyon,1
+2026-06,Marshall,1
+2026-06,Martin,1
+2026-06,Mcleod,3
+2026-06,Morrison,2
+2026-06,Mower,1
+2026-06,Murray,3
+2026-06,Olmsted,3
+2026-06,Otter Tail,2
+2026-06,Pine,2
+2026-06,Ramsey,254
+2026-06,Renville,4
+2026-06,Rice,2
+2026-06,Scott,12
+2026-06,Sherburne,5
+2026-06,St. Louis,6
+2026-06,Stearns,13
+2026-06,Steele,2
+2026-06,Swift,2
+2026-06,Washington,24
+2026-06,Winona,1
+2026-06,Wright,8
+2026-06,rRoseau,1
+2026-07,Anoka,35
+2026-07,Becker,1
+2026-07,Benton,1
+2026-07,Blue Earth,1
+2026-07,Brown,1
+2026-07,Carver,4
+2026-07,Cass,2
+2026-07,Chisago,3
+2026-07,Clay,3
+2026-07,Cook,1
+2026-07,Crow Wing,1
+2026-07,Dakota,40
+2026-07,Douglas,1
+2026-07,Fillmore,1
+2026-07,Hennepin,430
+2026-07,Isanti,1
+2026-07,Itasca,2
+2026-07,Kittson,1
+2026-07,Le Sueur,3
+2026-07,Lincoln,1
+2026-07,Lyon,1
+2026-07,Mcleod,3
+2026-07,Mower,1
+2026-07,Nicollet,1
+2026-07,Nobles,1
+2026-07,Olmsted,5
+2026-07,Pine,2
+2026-07,Ramsey,222
+2026-07,Redwood,1
+2026-07,Rice,3
+2026-07,Scott,11
+2026-07,Sherburne,3
+2026-07,Sibley,1
+2026-07,St. Louis,13
+2026-07,Stearns,13
+2026-07,Washington,9
+2026-07,Winona,1
+2026-07,Wright,9
