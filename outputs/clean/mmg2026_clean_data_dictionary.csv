@@ -1,0 +1,41 @@
+column,dtype,unit,required,source_column,description
+fips,string,identifier_text,True,FIPS,Five-character county identifier; read CSV with dtype={'fips': 'string'}.
+state,string,code_or_label,True,State,Source definition in workbook Read Me; missing estimates are not zero.
+county_name,string,code_or_label,True,derived/provenance,Source definition in workbook Read Me; missing estimates are not zero.
+county_state,string,code_or_label,False,"County, State",Source definition in workbook Read Me; missing estimates are not zero.
+year,Int64,year,True,Year,"Observation year, not publication year."
+fi_rate,Float64,fraction_0_to_1,True,Overall Food Insecurity Rate,Source definition in workbook Read Me; missing estimates are not zero.
+fi_people,Float64,people,True,# of Food Insecure Persons Overall,Modeled overall food-insecure people; not observed visits or unique clients.
+child_fi_rate,Float64,fraction_0_to_1,True,Child Food Insecurity Rate,Source definition in workbook Read Me; missing estimates are not zero.
+fi_children,Float64,people,True,# of Food Insecure Children,Modeled food-insecure children under 18.
+fi_rate_black,Float64,fraction_0_to_1,False,Food Insecurity Rate among Black Persons (all ethnicities),Source definition in workbook Read Me; missing estimates are not zero.
+fi_rate_hispanic,Float64,fraction_0_to_1,False,Food Insecurity Rate among Hispanic Persons (any race),Source definition in workbook Read Me; missing estimates are not zero.
+fi_rate_white_non_hispanic,Float64,fraction_0_to_1,False,"Food Insecurity Rate among White, non-Hispanic Persons",Source definition in workbook Read Me; missing estimates are not zero.
+snap_threshold,Float64,multiple_of_FPL,True,SNAP Threshold,"Multiple of FPL; 2.0 means 200% FPL, not actual SNAP enrollment."
+fi_below_snap_share,Float64,fraction_0_to_1,True,% FI ≤ SNAP Threshold,Source definition in workbook Read Me; missing estimates are not zero.
+fi_above_snap_share,Float64,fraction_0_to_1,True,% FI > SNAP Threshold,Source definition in workbook Read Me; missing estimates are not zero.
+child_fi_below_185fpl_share,Float64,fraction_0_to_1,True,% food insecure children in HH w/ HH incomes below 185 FPL,Source definition in workbook Read Me; missing estimates are not zero.
+child_fi_above_185fpl_share,Float64,fraction_0_to_1,True,% food insecure children in HH w/ HH incomes above 185 FPL,Source definition in workbook Read Me; missing estimates are not zero.
+cost_per_meal,Float64,USD_per_meal,True,Cost Per Meal,Source definition in workbook Read Me; missing estimates are not zero.
+weekly_gap_per_person,Float64,USD_per_person_per_week,True,Weighted weekly $ needed by FI,Source definition in workbook Read Me; missing estimates are not zero.
+annual_budget_shortfall,Float64,USD_county_annual_total,True,Weighted Annual Food Budget Shortfall,Source definition in workbook Read Me; missing estimates are not zero.
+rucc_2013,Int64,code_or_label,False,Rural-Urban Continuum Code (2013),Source definition in workbook Read Me; missing estimates are not zero.
+rucc_2023,Int64,code_or_label,False,Rural-Urban Continuum Code (2023),Source definition in workbook Read Me; missing estimates are not zero.
+rucc_used,Int64,code_or_label,True,derived/provenance,"Prefer RUCC 2023, otherwise use RUCC 2013."
+rucc_vintage,Int64,year,False,derived/provenance,Vintage (2013 or 2023) of rucc_used; not observation year.
+metro_status,string,code_or_label,True,derived/provenance,Metro for RUCC 1-3; Nonmetro for RUCC 4-9.
+census_region,string,code_or_label,False,Census Region,Source definition in workbook Read Me; missing estimates are not zero.
+census_division,string,code_or_label,False,Census Division,Source definition in workbook Read Me; missing estimates are not zero.
+fns_region,string,code_or_label,False,FNS Region,Source definition in workbook Read Me; missing estimates are not zero.
+fi_ratio_one_in_x,Int64,code_or_label,False,Ratio (1 in X) Overall,Rounded source 1-in-X indicator; absent from the 2024 release.
+market_basket_imputation_raw,string,code_or_label,False,Imputed Market Basket Data,Source definition in workbook Read Me; missing estimates are not zero.
+market_basket_imputation_status,string,code_or_label,False,derived/provenance,"not_provided, not_flagged, imputed; unexpected labels block export."
+market_basket_imputed,boolean,code_or_label,False,derived/provenance,Nullable flag: NA if field absent; False is not flagged; True is imputed.
+cost_method_period,string,code_or_label,False,derived/provenance,pre_2023 versus 2023_onward; prevents misleading cost comparisons.
+estimate_revision,string,code_or_label,False,derived/provenance,"revised_2023_v2 for corrected 2023 estimates, otherwise as_supplied."
+fi_rate_iqr_outlier,boolean,code_or_label,False,derived/provenance,Within-year IQR review flag; flagged records are retained.
+source_edition,str,code_or_label,False,derived/provenance,Source definition in workbook Read Me; missing estimates are not zero.
+source_file,str,code_or_label,False,derived/provenance,Source definition in workbook Read Me; missing estimates are not zero.
+source_sheet,str,code_or_label,False,derived/provenance,Source definition in workbook Read Me; missing estimates are not zero.
+source_excel_row,int64,code_or_label,False,derived/provenance,"Original worksheet row including header; lineage only, not a join key."
+source_sha256,str,code_or_label,False,derived/provenance,SHA-256 fingerprint of the exact original workbook used.

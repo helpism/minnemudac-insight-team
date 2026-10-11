@@ -1,0 +1,7 @@
+year,field,available_counties,missing_counties,total_counties
+2022,fi_rate_black,24,63,87
+2022,fi_rate_hispanic,52,35,87
+2022,fi_rate_white_non_hispanic,87,0,87
+2023,fi_rate_black,24,63,87
+2023,fi_rate_hispanic,54,33,87
+2023,fi_rate_white_non_hispanic,87,0,87

@@ -1,0 +1,5 @@
+decision,row_count
+Original non-Minnesota rows excluded,15437
+Exact duplicate copies removed,0
+Historical rows outside primary years retained separately,261
+Primary rows retained,174

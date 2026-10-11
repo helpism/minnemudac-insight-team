@@ -1,0 +1,26 @@
+source_column,dtype,non_missing,missing
+FIPS,string,3144,0
+State,str,3144,0
+"County, State",str,3144,0
+Year,int64,3144,0
+Overall Food Insecurity Rate,float64,3142,2
+# of Food Insecure Persons Overall,float64,3142,2
+Food Insecurity Rate among Black Persons (all ethnicities),float64,1478,1666
+Food Insecurity Rate among Hispanic Persons (any race),float64,1860,1284
+"Food Insecurity Rate among White, non-Hispanic Persons",float64,3082,62
+SNAP Threshold,float64,3144,0
+% FI ≤ SNAP Threshold,float64,3142,2
+% FI > SNAP Threshold,float64,3142,2
+Child Food Insecurity Rate,float64,3142,2
+# of Food Insecure Children,float64,3142,2
+% food insecure children in HH w/ HH incomes below 185 FPL,float64,3142,2
+% food insecure children in HH w/ HH incomes above 185 FPL,float64,3142,2
+Imputed Market Basket Data,str,1305,1839
+Cost Per Meal,float64,3144,0
+Weighted weekly $ needed by FI,float64,3144,0
+Weighted Annual Food Budget Shortfall,float64,3142,2
+Rural-Urban Continuum Code (2013),float64,3131,13
+Rural-Urban Continuum Code (2023),int64,3144,0
+Census Region,str,3144,0
+Census Division,str,3144,0
+FNS Region,str,3144,0
